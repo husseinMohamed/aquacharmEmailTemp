@@ -1,0 +1,49 @@
+body{
+    margin: 0 important;
+    padding: 15px;
+    background-color: #fff;
+}
+
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+
+    
+}
+.wrapper-inner{
+    width: 100%;
+    background-color: #f5f5dc;
+    max-width: 670px;
+    margin: 0 auto;
+}
+
+.inner-td{
+    width: 100%;
+    padding: 0;
+}
+.content{
+    max-width: 670px;
+    margin: 0 auto;
+}
+
+.image{
+    margin: 0 auto;
+    background: black;
+    width: 650px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+@media screen and (max-width: 400px) {
+
+}
+
+@media screen and (max-width: 400px) {
+
+}
+
+@media screen and (max-width: 400px) {
+    
+}
